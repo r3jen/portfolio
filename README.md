@@ -28,6 +28,7 @@
   - Automating AML reporting to improve compliance and operational efficiency.
 
 **Data Science Instructor @ Data Science Solution  (_June 2022 - Present_)**
+  
   Focused on teaching Machine Learning, Big Data Analytics, and Natural Language Processing (NLP), guiding students through real-world projects, model development, and data-driven decision-making.
 
 **Sr Data Engineer @ Batumbu (Financial Technology)  (_July 2020 - June 2021_)**
@@ -43,6 +44,7 @@
 - Designed customer grading systems to classify borrowers based on risk factors, payment behavior, and financial stability.
 
 **Data Analyst @ Mandiri Tunas Finance (_Jan 2012 - Feb 2019)**
+
   Conducted data analysis to support business decisions, focusing on financial performance, customer behavior, and portfolio risk management.
 
 ## Projects
