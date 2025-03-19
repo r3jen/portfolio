@@ -56,15 +56,16 @@ a Q&A document to provide comprehensive guidance on Standard Operating Procedure
 
 ### Build AI Agent Internal Auditor
 
-I have developed an AI agent with a structured three-stage process: (1) Data Collection & Initial Analysis, where the AI performs data crawling, information extraction, and preprocessing; (2) Analysis & Processing, leveraging machine learning, NLP, or graph analysis to detect patterns and anomalies; and (3) Decision & Automation, where the AI generates insights, recommendations, or automates processes such as AML detection, fraud prevention, and ICOFR risk control to enhance operational efficiency and regulatory compliance.
+I developed an AI agent with a three-stage process: (1) Data Collection (crawling, extraction), (2) Pattern Detection (ML, NLP, graph analysis), and (3) Decision Automation (AML, fraud prevention, ICOFR) to enhance efficiency and compliance.
 
 ![Build Report](/assets/img/icofr_report.png)
 
+build workflow with mermaid.js
 ![Build Workflow](/assets/img/icofr_report2.png)
 
 ### Social Media Listening
 
-I have worked on a Social Media Listening Project that focuses on real-time monitoring, sentiment analysis, and trend detection across various social media platforms, including X (formerly Twitter), Facebook, Telegram, and Google. This project leverages AI-driven NLP and machine learning models to analyze public conversations, detect emerging topics, and identify potential risks such as brand reputation threats, fraudulent activities, and regulatory violations. By implementing automated data crawling, entity recognition, and anomaly detection, this system enables organizations to gain actionable insights for decision-making, crisis management, and fraud detection.
+I built a Social Media Listening system for real-time monitoring, sentiment analysis, and risk detection across X, Facebook, Telegram, and Google, leveraging AI-driven NLP and ML to analyze conversations, detect fraud, and enhance decision-making.
 
 ![Dashboard](/assets/img/social_media.png)
 
