@@ -29,7 +29,21 @@
 
 **Data Science Instructor @ Data Science Solution  (_June 2022 - Present_)**
 - Focused on teaching Machine Learning, Big Data Analytics, and Natural Language Processing (NLP), guiding students through real-world projects, model development, and data-driven decision-making.
-- I specialize in building AI agents for automated decision-making, risk assessment, and fraud detection, integrating AI-driven solutions into business and financial applications.
+
+**Sr Data Engineer @ Batumbu (Financial Technology)  (_July 2020 - June 2021_)**
+- **Responsible for designing and managing data infrastructure**, including:  
+  - **Building and maintaining data pipelines** for efficient data ingestion, transformation, and storage.  
+  - **Developing and managing a scalable data warehouse** to support analytical needs.  
+  - **Implementing and optimizing BI tools, such as Metabase**, to deliver actionable insights.  
+  - **Automating daily and monthly reports**, reducing manual effort and improving reporting accuracy.  
+  - **Ensuring data quality and reliability**, supporting business intelligence and decision-making processes.
+ 
+**Data Scientist @ UangTeman (Financial Technology)  (_Feb 2019 - July 2020_)**
+- **Developed and optimized credit scoring models** to assess customer risk and improve loan approval accuracy.  
+- **Designed customer grading systems** to classify borrowers based on risk factors, payment behavior, and financial stability.
+
+**Data Analyst @ Mandiri Tunas Finance (_Jan 2012 - Feb 2019)**
+Conducted data analysis to support business decisions, focusing on financial performance, customer behavior, and portfolio risk management.
 
 ## Projects
 ### Build Document Q&A With Advance RAG
