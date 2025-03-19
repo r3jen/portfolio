@@ -21,14 +21,18 @@
 
 a Q&A document to provide comprehensive guidance on Standard Operating Procedures (SOPs) in banking. This document serves as a structured reference for addressing frequently asked questions (FAQs) related to compliance, risk management, transaction processing, customer service protocols, and regulatory requirements. By ensuring clarity and accessibility, this Q&A document helps employees navigate complex banking procedures efficiently while maintaining regulatory compliance.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![RAG vs Long Context LLM](/assets/img/rag.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Build AI Agent Internal Auditor
 
-![Bike Study](/assets/img/bike_study.jpeg)
+I have developed an AI agent with a structured three-stage process: (1) Data Collection & Initial Analysis, where the AI performs data crawling, information extraction, and preprocessing; (2) Analysis & Processing, leveraging machine learning, NLP, or graph analysis to detect patterns and anomalies; and (3) Decision & Automation, where the AI generates insights, recommendations, or automates processes such as AML detection, fraud prevention, and ICOFR risk control to enhance operational efficiency and regulatory compliance.
+
+![Build Report](/assets/img/icofr_report.png)
+
+![Build Workflow](/assets/img/icofr_report2.png)
+
+
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
