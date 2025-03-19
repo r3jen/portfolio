@@ -8,26 +8,26 @@
 ## Work Experience
 **Sr Data Scientist @ Bank Jago (_June 2021 - Present_)**
 
-- **Specialized in fraud detection**, with expertise in:  
+- Specialized in fraud detection, with expertise in:  
   - Judol detection by crawling data from Google, X (formerly Twitter), and Telegram.  
   - Account trading detection through monitoring activities on Facebook, Telegram, and X.  
   - Transaction network analytics using Python NetworkX to analyze fund flow and detect suspicious patterns.  
   - Face swap detection using deep learning to identify manipulated images and fraudulent identity verification.  
   - Emulator detection leveraging deep learning to detect virtualized environments used in fraud attempts.  
 
-- **Developed AI agents** for **ICOFR (Internal Control Over Financial Reporting) risk control analysis**, enabling:  
+- Developed AI agents for ICOFR (Internal Control Over Financial Reporting) risk control analysis, enabling:  
   - Automated identification of control gaps in financial processes.
   - Anomaly detection in financial transactions to prevent irregularities.
   - Risk assessment models to enhance compliance and mitigate financial risks.
   - NLP-based AI for analyzing financial reports, transaction patterns, and internal audit findings.
 
-- **Experienced in designing and implementing AML (Anti-Money Laundering) rules**, focusing on:  
+- Experienced in designing and implementing AML (Anti-Money Laundering) rules, focusing on:  
   - Detecting suspicious transaction patterns using data-driven analytics.
   - Identifying account behavior anomalies that indicate potential financial crimes.
   - Developing rule-based detection models for transaction monitoring systems.
   - Automating AML reporting to improve compliance and operational efficiency.
 
-**Data Science Instructor @ Data Science Solution  (_June 2022 - Present_)**<br>
+**Data Science Instructor @ Data Science Solution  (_June 2022 - Present_)** <br>
   Focused on teaching Machine Learning, Big Data Analytics, and Natural Language Processing (NLP), guiding students through real-world projects, model development, and data-driven decision-making.
 
 **Sr Data Engineer @ Batumbu (Financial Technology)  (_July 2020 - June 2021_)**
@@ -42,7 +42,7 @@
 - Developed and optimized credit scoring models to assess customer risk and improve loan approval accuracy.  
 - Designed customer grading systems to classify borrowers based on risk factors, payment behavior, and financial stability.
 
-**Data Analyst @ Mandiri Tunas Finance (_Jan 2012 - Feb 2019)**<br>
+**Data Analyst @ Mandiri Tunas Finance (_Jan 2012 - Feb 2019)** <br>
   Conducted data analysis to support business decisions, focusing on financial performance, customer behavior, and portfolio risk management.
 
 ## Projects
