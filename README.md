@@ -7,9 +7,25 @@
 
 ## Work Experience
 **Sr Data Scientist @ Bank Jago (_June 2021 - Present_)**
-- I have experience in fraud detection, including judol detection by crawling data from Google, X (formerly Twitter), and Telegram, as well as identifying account trading activities through Facebook, Telegram, and X. Additionally, I have worked on transaction network analytics using Python NetworkX, face swap detection with deep learning, and emulator detection leveraging deep learning techniques
-- I am also capable of developing AI agents to assist in ICOFR (Internal Control Over Financial Reporting) risk control analysis, enabling automated identification of control gaps, anomaly detection in financial transactions, and risk assessment. By leveraging machine learning and natural language processing, these AI agents can analyze financial reports, transaction patterns, and internal audit findings to enhance compliance and mitigate risks
-- I have experience in developing AML (Anti-Money Laundering) rules for banks, focusing on detecting suspicious transaction patterns, account behavior anomalies, and compliance violations. By leveraging data analytics, machine learning, and rule-based detection models, I have worked on enhancing transaction monitoring systems, identifying high-risk customers, and automating AML reporting to ensure regulatory compliance
+
+- **Specialized in fraud detection**, with expertise in:  
+  - **Judol detection** by crawling data from **Google, X (formerly Twitter), and Telegram**.  
+  - **Account trading detection** through monitoring activities on **Facebook, Telegram, and X**.  
+  - **Transaction network analytics** using **Python NetworkX** to analyze fund flow and detect suspicious patterns.  
+  - **Face swap detection** using **deep learning** to identify manipulated images and fraudulent identity verification.  
+  - **Emulator detection** leveraging **deep learning** to detect virtualized environments used in fraud attempts.  
+
+- **Developed AI agents** for **ICOFR (Internal Control Over Financial Reporting) risk control analysis**, enabling:  
+  - **Automated identification of control gaps** in financial processes.  
+  - **Anomaly detection** in financial transactions to prevent irregularities.  
+  - **Risk assessment models** to enhance compliance and mitigate financial risks.  
+  - **NLP-based AI** for analyzing financial reports, transaction patterns, and internal audit findings.  
+
+- **Experienced in designing and implementing AML (Anti-Money Laundering) rules**, focusing on:  
+  - **Detecting suspicious transaction patterns** using data-driven analytics.  
+  - **Identifying account behavior anomalies** that indicate potential financial crimes.  
+  - **Developing rule-based detection models** for transaction monitoring systems.  
+  - **Automating AML reporting** to improve compliance and operational efficiency.  
 
 **Data Science Instructor @ Data Science Solution  (_June 2022 - Present_)**
 - Focused on teaching Machine Learning, Big Data Analytics, and Natural Language Processing (NLP), guiding students through real-world projects, model development, and data-driven decision-making.
