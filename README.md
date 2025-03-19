@@ -42,7 +42,7 @@
 - Developed and optimized credit scoring models to assess customer risk and improve loan approval accuracy.  
 - Designed customer grading systems to classify borrowers based on risk factors, payment behavior, and financial stability.
 
-**Data Analyst @ Mandiri Tunas Finance (_Jan 2012 - Feb 2019)** <br>
+**Data Analyst @ Mandiri Tunas Finance (_Jan 2012 - Feb 2019_)** <br>
   Conducted data analysis to support business decisions, focusing on financial performance, customer behavior, and portfolio risk management.
 
 ## Projects
