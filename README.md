@@ -32,6 +32,12 @@ I have developed an AI agent with a structured three-stage process: (1) Data Col
 
 ![Build Workflow](/assets/img/icofr_report2.png)
 
+### Social Media Listening
+
+I have worked on a Social Media Listening Project that focuses on real-time monitoring, sentiment analysis, and trend detection across various social media platforms, including X (formerly Twitter), Facebook, Telegram, and Google. This project leverages AI-driven NLP and machine learning models to analyze public conversations, detect emerging topics, and identify potential risks such as brand reputation threats, fraudulent activities, and regulatory violations. By implementing automated data crawling, entity recognition, and anomaly detection, this system enables organizations to gain actionable insights for decision-making, crisis management, and fraud detection.
+
+![Dashboard](/assets/img/social_media.png)
+
 
 
 ## Talks & Lectures
