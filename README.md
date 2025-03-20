@@ -49,17 +49,17 @@
  - ### Build Document Q&A With Advance RAG
 [See Project](https://github.com/r3jen/document_qna_demo)
 
-a Q&A document to provide comprehensive guidance on Standard Operating Procedures (SOPs) in banking. This document serves as a structured reference for addressing frequently asked questions (FAQs) related to compliance, risk management, transaction processing, customer service protocols, and regulatory requirements. By ensuring clarity and accessibility, this Q&A document helps employees navigate complex banking procedures efficiently while maintaining regulatory compliance.
+  a Q&A document to provide comprehensive guidance on Standard Operating Procedures (SOPs) in banking. This document serves as a structured reference for addressing frequently asked questions (FAQs) related to compliance, risk management, transaction processing, customer   service protocols, and regulatory requirements. By ensuring clarity and accessibility, this Q&A document helps employees navigate complex banking procedures efficiently while maintaining regulatory compliance.
 
 
-  - #### Build AI Agent Internal Auditor
+- #### Build AI Agent Internal Auditor
 
-I developed an AI agent with a three-stage process: (1) Data Collection (crawling, extraction), (2) Pattern Detection (ML, NLP, graph analysis), and (3) Decision Automation (AML, fraud prevention, ICOFR) to enhance efficiency and compliance.
+  I developed an AI agent with a three-stage process: (1) Data Collection (crawling, extraction), (2) Pattern Detection (ML, NLP, graph analysis), and (3) Decision Automation (AML, fraud prevention, ICOFR) to enhance efficiency and compliance.
 
 
-  - #### Social Media Listening
+- #### Social Media Listening
 
-I built a Social Media Listening system for real-time monitoring, sentiment analysis, and risk detection across X, Facebook, Telegram, and Google, leveraging AI-driven NLP and ML to analyze conversations, detect fraud, and enhance decision-making.
+  I built a Social Media Listening system for real-time monitoring, sentiment analysis, and risk detection across X, Facebook, Telegram, and Google, leveraging AI-driven NLP and ML to analyze conversations, detect fraud, and enhance decision-making.
 
 
 
