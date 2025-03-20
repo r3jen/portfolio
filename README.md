@@ -47,8 +47,8 @@
 
 ## Projects
 - #### Build Document Q&A With Advance RAG
+  a Q&A document to provide comprehensive guidance on Standard Operating Procedures (SOPs) in banking. This document serves as a structured reference for addressing frequently asked questions (FAQs) related to compliance, risk management, transaction processing, customer   service protocols, and regulatory requirements. By ensuring clarity and accessibility, this Q&A document helps employees navigate complex banking procedures efficiently while maintaining regulatory compliance. <br>
   [See Project](https://github.com/r3jen/document_qna_demo)
-  a Q&A document to provide comprehensive guidance on Standard Operating Procedures (SOPs) in banking. This document serves as a structured reference for addressing frequently asked questions (FAQs) related to compliance, risk management, transaction processing, customer   service protocols, and regulatory requirements. By ensuring clarity and accessibility, this Q&A document helps employees navigate complex banking procedures efficiently while maintaining regulatory compliance.
 
 
 - #### Build AI Agent Internal Auditor
