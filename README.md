@@ -68,7 +68,9 @@
 
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+1. [Medium - Visualizing Suspicious Transaction Patterns with Python: From CSV to Interactive Network Insights](https://medium.com/@andreawanR/visualizing-suspicious-transaction-patterns-with-python-from-csv-to-interactive-network-insights-90d45c430a5a)
+2. [Medium - Automating Online Gambling Site Registrations with AI to Uncover Hidden Bookie Accounts](https://medium.com/@andreawanR/automating-online-gambling-site-registrations-with-ai-to-uncover-hidden-bookie-accounts-ecebedb8b1ab)
+3. [Medium - Automating CCTV Review with Streamlit, OpenCV, and OCR](https://medium.com/@andreawanR/automating-cctv-review-with-streamlit-opencv-and-ocr-448c278c0229)
 
 
 
