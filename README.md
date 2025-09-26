@@ -1,4 +1,4 @@
-# Sr Data Scientist
+# Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, Google Cloud Platform, Machine Learning, Artificial Intelligence
 
@@ -6,7 +6,7 @@
 - Bachelor's Degree, System Information | The University of Gunadarma (_May 2011_)								       		
 
 ## Work Experience
-**Sr Data Scientist @ Bank Jago (_June 2021 - Present_)**
+**Machine Learning Engineer @ Bank Jago (_June 2021 - Present_)**
 
 - Specialized in fraud detection, with expertise in:  
   - Judol detection by crawling data from Google, X (formerly Twitter), and Telegram.  
